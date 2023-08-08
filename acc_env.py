@@ -50,7 +50,7 @@ class acc_env:
                         +------------+---------------------------+
                         |   Value    |          Purpose          |
                         +============+===========================+
-                        |   logout   |to log-out from the account|
+                        |   username |  To change the Username   |
                         +------------+---------------------------+
                         |    name    |       to change name      |
                         +------------+---------------------------+
